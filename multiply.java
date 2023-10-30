@@ -7,3 +7,5 @@ public class multiply {
         System.out.println("sum is", a*b);
     }
 }
+
+//new changes
